@@ -1,0 +1,6 @@
+[
+QueueType(type=CSV, data=1,100,USD,оплата заказа, lineNumber=1, filename=src/test/resources/files/orders1.csv),
+QueueType(type=CSV, data=2,,EUR,оплата заказа, lineNumber=2, filename=src/test/resources/files/orders1.csv),
+QueueType(type=CSV, data=3,100,USD,, lineNumber=3, filename=src/test/resources/files/orders1.csv),
+QueueType(type=CSV, data="asd","sad",1,13213 123123, lineNumber=4, filename=src/test/resources/files/orders1.csv)
+]
